@@ -1,0 +1,28 @@
+name: Object
+# 목록 에 사용할 필드
+list: 
+  - "field1"
+  - "field2"
+  - "field3"
+# 수정할때 사용할 필드
+update:
+  - "field2"
+  - "field3"
+  - 
+insert:
+  - "field1"
+keys:
+  - "field1"
+  - "filed2"
+filter:
+  - "field1"
+  - "fi"
+fields: 
+  "field1":
+    - name: "field Name"
+      key: "field Key"
+      type: "text string "
+      max: 256
+      
+
+    
